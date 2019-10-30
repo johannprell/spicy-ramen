@@ -7,6 +7,10 @@ build/
 dist/
 npm-debug.log
 
+# Parcel
+.cache/
+dist/
+
 # System
 .env
 .DS_Store
