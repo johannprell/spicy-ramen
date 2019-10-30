@@ -1,2 +1,2 @@
 # spicy-ramen
-Nutritious and spicy serving of A-Frame
+Nutritious and spicy serving of A-Frame :hot_pepper: :ramen:

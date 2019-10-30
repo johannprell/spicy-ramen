@@ -11,6 +11,9 @@ npm-debug.log
 .cache/
 dist/
 
+# Yarn
+yarn-error.log
+
 # System
 .env
 .DS_Store
