@@ -742,10 +742,30 @@
     "@parcel/utils" "^1.11.0"
     physical-cpu-count "^2.0.0"
 
+"@types/aframe@^0.8.4":
+  version "0.8.4"
+  resolved "https://registry.yarnpkg.com/@types/aframe/-/aframe-0.8.4.tgz#1fa7a3cf5a6b1684efe5277a3a58cda5e41bede2"
+  integrity sha512-R2oqbiRZRMj80CHotL/qJ0llxyTRS8sGbFD1hT3KONUwFYmXlYPpgNjzFbveIxDo024OLe3pRSOosOsWWROumg==
+  dependencies:
+    "@types/tween.js" "*"
+    three "*"
+
 "@types/q@^1.5.1":
   version "1.5.2"
   resolved "https://registry.yarnpkg.com/@types/q/-/q-1.5.2.tgz#690a1475b84f2a884fd07cd797c00f5f31356ea8"
   integrity sha512-ce5d3q03Ex0sy4R14722Rmt6MT07Ua+k4FwDfdcToYJcMKNtRVQvJ6JCAPdAmAnbRb6CsX6aYb9m96NGod9uTw==
+
+"@types/three@^0.103.2":
+  version "0.103.2"
+  resolved "https://registry.yarnpkg.com/@types/three/-/three-0.103.2.tgz#f7d49130001c551941a0ded757def810579aafc4"
+  integrity sha512-zhtf0Qs5wLJpIn1+VWCpzSgpKayj/GSWZ6woiuz09FW59KEDeLpnBkYz6lbblVpRmGdlnG8nd0unaASshOvcXw==
+  dependencies:
+    three "*"
+
+"@types/tween.js@*":
+  version "17.2.0"
+  resolved "https://registry.yarnpkg.com/@types/tween.js/-/tween.js-17.2.0.tgz#25f98311daecb165ab91ee2cd7f17a9b1e6cc30c"
+  integrity sha512-mOsqurEtFEzwgkVc/jDVE2XrjZBYTbrmDUyCr9GXmnfc6q5otokxFtKvSY/B21zgz9LVRIvRTawKczjKi57wrA==
 
 abab@^2.0.0:
   version "2.0.2"
@@ -5598,6 +5618,11 @@ three-buffer-vertex-data@^1.0.0:
   dependencies:
     flatten-vertex-data "^1.0.0"
 
+three@*:
+  version "0.110.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.110.0.tgz#8719591de1336269113ee79f4268ba247b2324f8"
+  integrity sha512-wlurH8XBO9Sd5VIw8nBa+taLR20kqaI4e9FiuMh6tqK8eOS2q2R+ZoUyufbyDTVTHhs8GiTbv0r2CMLkwerFJg==
+
 through2@0.6.x:
   version "0.6.5"
   resolved "https://registry.yarnpkg.com/through2/-/through2-0.6.5.tgz#41ab9c67b29d57209071410e1d7a7a968cd3ad48"
@@ -5737,6 +5762,11 @@ typedarray@^0.0.6, typedarray@~0.0.5:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
+
+typescript@^3.7.2:
+  version "3.7.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.7.2.tgz#27e489b95fa5909445e9fef5ee48d81697ad18fb"
+  integrity sha512-ml7V7JfiN2Xwvcer+XAf2csGO1bPBdRbFCkYBczNZggrBZ9c7G3riSUeJmqEU5uOtXNPMhE3n+R4FA/3YOAWOQ==
 
 uncss@^0.17.0:
   version "0.17.2"
