@@ -1,3 +1,3 @@
 # spicy-ramen
-Nutritious and spicy serving of A-Frame :hot_pepper: :ramen:
+Nutritious Template for WebXR in A-Frame :hot_pepper: :ramen:
 
