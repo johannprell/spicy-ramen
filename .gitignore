@@ -4,7 +4,6 @@
 # Node JS
 node_modules/
 build/
-dist/
 npm-debug.log
 
 # Parcel
