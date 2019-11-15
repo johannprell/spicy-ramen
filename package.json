@@ -2,14 +2,14 @@
   "name": "spicy-ramen",
   "version": "0.0.1",
   "description": "A-Frame plus spice",
-  "main": "index.ts",
-  "module": "index.ts",
+  "main": "index.js",
+  "module": "index.js",
   "repository": "git@github.com:johannprell/spicy-ramen.git",
   "author": "Johann Prell",
   "license": "MIT",
   "private": true,
   "scripts": {
-    "build": "parcel build index.html",
+    "build": "rm -rf dist && parcel build index.html",
     "dev": "parcel index.html"
   },
   "dependencies": {
